@@ -7,7 +7,7 @@ public class AdminDashboardResponse {
     private long totalJobs;
     private long totalApplications;
 
-    public AdminDashboardResponse() {
+    public AdminDashboardResponse() { 
     }
 
     public AdminDashboardResponse(long totalUsers,
